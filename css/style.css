@@ -1,0 +1,15 @@
+.jumbotron{
+    height: 100vh;
+    background-image: url(https://images.unsplash.com/photo-1661347334008-da5448d2a6cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHw0MXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60);
+    max-width: 100%;
+    background-size: cover ;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+}
+ 
+#letters{
+    /* width: auto;
+    height: 30px; */
+    color: blue ;
+}
